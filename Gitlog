@@ -1,5 +1,0 @@
-git log --oneline
-git log --oneline -n
-git log --author=name -n
-git log --author=name --oneline
-Git log -- filname
